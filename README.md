@@ -10,7 +10,7 @@ Project Infinity is a mind controlled rover which is made using arduino and is c
 
 ## Preview
 
-![Project Infinity](screenshot/Screenshot_20200503-025414_Project Infinity.jpg?raw=true)
+-![Project Infinity](https://github.com/ksdhanjal/Project-Infinity/blob/master/screenshot/Screenshot_20200503-025414_Project%20Infinity.jpg)
 
 ## Acknowledgements 
 - Arduino's code by [@arshanwar](https://github.com/arshanwar/Project-Infinity)
