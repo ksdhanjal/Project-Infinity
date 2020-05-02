@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project Infinity</string>
+
+    <string name="init_text">--</string>
+    <string name="arduino_connect_button_text">Connect HC-05</string>
+    <string name="mindwave_connect_button_text">Connect Neurosky</string>
+</resources>
