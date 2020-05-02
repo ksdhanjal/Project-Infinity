@@ -8,6 +8,10 @@ Project Infinity is a mind controlled rover which is made using arduino and is c
 -  NeuroSky's Android SDK converts the raw data to decode Attention, Meditation, and Eye Blink Detection waves
 - When the user blinks twice with the intensity exceeding the set threshold then the app cycles through the directions and when the user again blinks, the app sends the command to the rover via Bluetooth
 
+## Preview
+
+-![Project Infinity](https://github.com/ksdhanjal/Project-Infinity/blob/master/screenshot/Screenshot_20200503-025414_Project%20Infinity.jpg)
+
 ## Acknowledgements 
 - Arduino's code by [@arshanwar](https://github.com/arshanwar/Project-Infinity)
 - [NeuroSky's Android SDK](https://store.neurosky.com/products/android-developer-tools-4)
